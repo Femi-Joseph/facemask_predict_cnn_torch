@@ -4,5 +4,5 @@ torchvision
 torchaudio
 streamlit
 numpy
-opencv
+opencv-python
 PIL
