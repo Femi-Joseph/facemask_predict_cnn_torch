@@ -2,3 +2,7 @@ streamlit
 torch
 torchvision
 torchaudio
+streamlit
+numpy
+opencv
+PIL
