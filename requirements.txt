@@ -2,7 +2,7 @@ streamlit
 torch
 torchvision
 torchaudio
-streamlit
+opencv-python-headless
 numpy
-opencv-python
-PIL
+pandas
+matplotlib
